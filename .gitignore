@@ -1,0 +1,30 @@
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# macOS system files
+.DS_Store
+
+# Power BI temporary/backup files
+~$*.pbix
